@@ -27,7 +27,7 @@
     "lodash": "4.17.4",
     "minimist": "1.2.0",
     "moment": "2.18.1",
-    "mysql": "2.13.0",
+    "mysql": "2.18.1",
     "q": "1.4.0"
   },
   "devDependencies": {
