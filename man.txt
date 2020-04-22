@@ -1,0 +1,6 @@
+#
+# apiRestGenerator - https://github.com//api-rest-generator.git
+#
+# Copyright (c) 2020 
+#
+# Add here your help message.
